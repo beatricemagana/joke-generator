@@ -1,0 +1,56 @@
+body {
+    background-color: #232520;
+    background-image: url(./images/jester.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 550px;
+}
+
+section .setup {
+    background-color: beige;
+    width: 200px;
+    position: absolute;
+    top: 20%;
+    left: 30%; 
+    text-align: center;
+    font-size: 18px;
+}
+
+section .delivery {
+    background-color: beige;
+    width: 200px;
+    position: absolute;
+    top: 35%;
+    left: 55%;
+    text-align: center;
+    font-size: 18px;
+}
+
+section .censored {
+    background-color: beige;
+    width: 200px;
+    position: absolute;
+    top: 35%;
+    left: 55%;
+    text-align: center;
+    font-size: 18px;
+}
+
+section .single-joke {
+    background-color: beige;
+    width: 200px;
+    position: absolute;
+    top: 35%;
+    left: 55%;
+    text-align: center;
+    font-size: 18px;
+}
+
+input{
+    position: absolute;
+    top: 85%;
+    left: 45%;
+    text-align: center;
+    font-size: 18px;
+}
