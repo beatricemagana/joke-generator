@@ -1,6 +1,5 @@
 'use strict';
 
-// const fetch = require('node-fetch');
 
 const jokeSection = document.querySelector('.joke');
 const jokeFail = 'Error. Please try again.';
